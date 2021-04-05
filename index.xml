@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statistics Portfolio on Kexin Qin</title>
+    <link>https://qinkexinnn.github.io/portfolio/</link>
+    <description>Recent content in Statistics Portfolio on Kexin Qin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Apr 2017 11:00:59 -0400</lastBuildDate><atom:link href="https://qinkexinnn.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 2: Examining the Relationship Between the Use of Official Anime Viewing Platforms and Viewer Characteristics </title>
+      <link>https://qinkexinnn.github.io/portfolio/post/project2/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://qinkexinnn.github.io/portfolio/post/project2/</guid>
+      <description>I explore the relationship between use of official anime viewing platforms and the characteristics of an anime viewer. The 2020 Anime Survey (Reysen et al., 2020) will be analyzed for the probability of a anime viewer using official anime viewing platforms based on their age, whether or not they collect anime related merchandise, and their preference in anime. The results showed that an increase in age and collecting anime related merchandise increases one&amp;rsquo;s log likelihood of using an official anime viewing platform to watch anime.</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Popular Vote Prediction for the 2020 American Federal Election</title>
+      <link>https://qinkexinnn.github.io/portfolio/post/project1/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://qinkexinnn.github.io/portfolio/post/project1/</guid>
+      <description>In this project, my partner and I selected and cleaned data from the American Community Surveys. Using a multi-variable logsitic regression model and a post-stratification technique, we wanted to find out the winner of the popular vote.
+  Link to GitHub repository</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://qinkexinnn.github.io/portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://qinkexinnn.github.io/portfolio/contact/</guid>
+      <description>Some other platforms that I use!
+   Platform URL     Email: qinkexinnn@gmail.com   LinkedIn: https://www.linkedin.com/kexinqinnnn   GitHub: https://www.github.com/kexinqinnn    </description>
+    </item>
+    
+  </channel>
+</rss>
